@@ -3,7 +3,10 @@ import './idealjob.css'
 
 const IdealJob = () => {
   return (
-    <section id='idealjob'>Ideal Job</section>
+    <section id='idealjob'>
+      <h5>This is my</h5>
+      <h2>Ideal Job</h2>
+    </section>
   )
 }
 
