@@ -4,7 +4,7 @@ import React from 'react'
 const CTA = () => {
   return (
     <div className='cta'>
-        <a href='' download className='btn'>Download PDF</a>
+        <a href='../../assets/Assignment1.pdf' download className='btn'>Download PDF</a>
         <a href='https://github.com/skdxxb95' target='_blank'  className='btn btn-primary'>GitHub</a>
     </div>
   )
