@@ -4,8 +4,9 @@ import './idealjob.css'
 const IdealJob = () => {
   return (
     <section id='idealjob'>
-      <h5>This is my..</h5>
+      <h5>This is what I have chosen for my..</h5>
       <h2>Ideal Job</h2>
+      
     </section>
   )
 }
