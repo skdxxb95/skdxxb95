@@ -20,28 +20,28 @@ const IdealJob = () => {
           <br></br><br></br>
           To achieve this goal, I will earn my Bachelor of IT degree and continue working at my current job to improve my skills and open more opportunities for growth. My boss has suggested practicing with the Flask and React libraries, and I have already started learning Flask. I plan to continue gaining a strong understanding of its fundamentals and then move on to incorporating and expanding my knowledge of JavaScript. From there, I will experiment with React and other libraries like Node.js and Typescript, and eventually try using them together. I will also use my studies at university to improve my problem-solving skills, proficiency in Java, and ability to work in a team. After I complete my studies, I plan to continue growing in my field and believe that I will have the skills needed for this position within the required 5 years of experience.
           <br></br><br></br>
-          <em>**I had written this before I took the challenge to present this with React.js**</em>
+          <em>**This was written this before I took the challenge to present the assignment with React.js**</em>
           </p>
         </div>
-        <div className="idealjob__right">
-          <div className="idealjob__link">
-            <a href="https://au.indeed.com/jobs?q=full+stack&l=Brisbane+QLD&from=searchOnHP&vjk=6ab94af8d5cf3537" target="_blank">
-            <article>
-              <MdOutlineWeb size='50' className='idealjob__details-icon' />
-              <h3>Job Advertisment</h3>
-              <small>Click here to open</small>
-            </article>
-            </a>
-          </div>
-          <div className="idealjob__image">
-            <a href="https://i.postimg.cc/xT9Pc8zV/0.png" target="_blank">
-            <article>
-              <AiOutlinePicture size='50' className='idealjob__details-icon' />
-              <h3>Screenshot of Job Advertisment</h3>
-              <small>Click here to open</small>
-            </article>
-            </a>
-          </div>
+          <div className="idealjob__right">
+            <div className="idealjob__link">
+              <a href="https://au.indeed.com/jobs?q=full+stack&l=Brisbane+QLD&from=searchOnHP&vjk=6ab94af8d5cf3537" target="_blank">
+              <article>
+                <MdOutlineWeb size='50' className='idealjob__details-icon' />
+                <h3>Link to Job Advertisment</h3>
+                <small>Click here to open</small>
+              </article>
+              </a>
+            </div>
+            <div className="idealjob__image">
+              <a href="https://i.postimg.cc/xT9Pc8zV/0.png" target="_blank">
+              <article>
+                <AiOutlinePicture size='50' className='idealjob__details-icon' />
+                <h3>Screenshot of Job Advertisment</h3>
+                <small>Click here to open</small>
+              </article>
+              </a>
+            </div>
         </div>
       </div>
     </section>

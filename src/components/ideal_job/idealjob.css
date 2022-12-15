@@ -1,7 +1,7 @@
 .idealjob__container {
     display: grid;
-    grid-template-columns: 70% 25%;
-    gap: 5%;
+    grid-template-columns: 80% 18%;
+    gap: 3rem;
   } 
   
 .idealjob__text {
@@ -15,9 +15,10 @@
   }
   
 .idealjob__right {
-    display: grid;
-    grid-template-rows:30%;
-    gap: 30rem;
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr;
+  gap: 3rem;
+  margin-top: 1rem;
 }
 
 .idealjob__right > div {
