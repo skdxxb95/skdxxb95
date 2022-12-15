@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/skdxxb95/static/css/main.bed37eb9.css",
-    "main.js": "/skdxxb95/static/js/main.5d7e9e72.js",
+    "main.css": "/skdxxb95/static/css/main.7bb80c58.css",
+    "main.js": "/skdxxb95/static/js/main.bed9b2d1.js",
     "static/media/sam.PNG": "/skdxxb95/static/media/sam.16076adb17218b7f0c2c.PNG",
     "static/media/forumprofile.png": "/skdxxb95/static/media/forumprofile.b5b9474f64500cee5d33.png",
     "static/media/mbti.png": "/skdxxb95/static/media/mbti.1d65bf768f84677176eb.png",
@@ -10,11 +10,11 @@
     "static/media/sam-personal.jpg": "/skdxxb95/static/media/sam-personal.63446c8367621f171493.jpg",
     "static/media/big5test.png": "/skdxxb95/static/media/big5test.51d8c731a0c8b4722ef1.png",
     "index.html": "/skdxxb95/index.html",
-    "main.bed37eb9.css.map": "/skdxxb95/static/css/main.bed37eb9.css.map",
-    "main.5d7e9e72.js.map": "/skdxxb95/static/js/main.5d7e9e72.js.map"
+    "main.7bb80c58.css.map": "/skdxxb95/static/css/main.7bb80c58.css.map",
+    "main.bed9b2d1.js.map": "/skdxxb95/static/js/main.bed9b2d1.js.map"
   },
   "entrypoints": [
-    "static/css/main.bed37eb9.css",
-    "static/js/main.5d7e9e72.js"
+    "static/css/main.7bb80c58.css",
+    "static/js/main.bed9b2d1.js"
   ]
 }
