@@ -40,16 +40,11 @@
     background: var(--color-bg-variant);
     border: 1px solid transparent;
     border-radius: 1rem;
+    border-color: var(--color-primary);
     padding: 1rem;
     margin: 1rem;
     text-align: center;
     transition: var(--transition);
-}
-
-.introduction__card:hover{
-    background: transparent;
-    border-color: var(--color-primary);
-    cursor: default;
 }
 
 .introduction__icon {
@@ -72,7 +67,9 @@
     color: var(--color-white);
     background: var(--color-bg-variant);
     padding: 1rem;
-    border-radius: 1.5rem;
+    border: 1px solid transparent;
+    border-radius: 1rem;
+    border-color: var(--color-primary);
 }
 
 /* ============== MEDIA QUERIES (MEDIUM DEVICES) ================ */
