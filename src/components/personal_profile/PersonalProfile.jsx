@@ -2,7 +2,7 @@ import React from 'react'
 import './personalprofile.css'
 import {RiPsychotherapyLine} from 'react-icons/ri'
 import {GiOpenBook} from 'react-icons/gi'
-import {GiPsychicWaves} from 'react-icons/gi'
+import {BiBrain} from 'react-icons/bi'
 
 const PersonalProfile = () => {
   return (
@@ -13,7 +13,7 @@ const PersonalProfile = () => {
       <div className="container personalprofile__container">
         <div className="personalprofile__mbti">
           <a href="https://www.16personalities.com/profiles/8981a4e8732e7" target="_blank">
-          <article className="personalprofile__mbti-test">
+          <article>
             <RiPsychotherapyLine size='50' className='personalprofile__details-icon' />
             <h3>Myers-Briggs Test</h3>
             <small>Click here to open</small>
@@ -22,7 +22,7 @@ const PersonalProfile = () => {
         </div>
         <div className="personalprofile__learning">
           <a href='https://i.postimg.cc/NGpw3KqC/learningtest1.png' download target="_blank">
-          <article className="personalprofile__learning-test">
+          <article>
             <GiOpenBook size='50' className='personalprofile__details-icon' />
             <h3>Learning Styles Test</h3>
             <small>Click here to open</small>
@@ -31,8 +31,8 @@ const PersonalProfile = () => {
         </div>
         <div className="personalprofile__bigfive">
           <a href="https://bigfive-test.com/result/6386d9f71691880008b34efa" target="_blank">
-          <article className="personalprofile__bigfive-test">
-            <GiPsychicWaves size='50' className='personalprofile__details-icon' />
+          <article>
+            <BiBrain size='50' className='personalprofile__details-icon' />
             <h3>Big Five Test</h3>
             <small>Click here to open</small>
           </article>
