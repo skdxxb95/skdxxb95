@@ -37,7 +37,7 @@ const IdealJob = () => {
               <a href="https://i.postimg.cc/xT9Pc8zV/0.png" target="_blank">
               <article>
                 <AiOutlinePicture size='50' className='idealjob__details-icon' />
-                <h3>Screenshot of Job Advertisment</h3>
+                <h3>Link to Screenshot</h3>
                 <small>Click here to open</small>
               </article>
               </a>

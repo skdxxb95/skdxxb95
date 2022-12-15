@@ -72,6 +72,7 @@
     border-color: var(--color-primary);
 }
 
+
 /* ============== MEDIA QUERIES (MEDIUM DEVICES) ================ */
 @media screen and (max-width: 1024px) {
     .introduction__container {
