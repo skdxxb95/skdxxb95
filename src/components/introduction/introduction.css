@@ -7,7 +7,7 @@
 .introduction__me {
     width: 100%;
     aspect-ratio: 1.61/1;
-    border-radius: 3rem;
+    border-radius: 2rem;
     margin: 6rem 0 2.6rem;
     background: linear-gradient(
         45deg, 
@@ -73,4 +73,42 @@
     background: var(--color-bg-variant);
     padding: 1rem;
     border-radius: 1.5rem;
+}
+
+/* ============== MEDIA QUERIES (MEDIUM DEVICES) ================ */
+@media screen and (max-width: 1024px) {
+    .introduction__container {
+        grid-template-columns: 1fr;
+        gap: 0;
+    }
+
+    .introduction__me {
+        width: 50%;
+        margin: 2rem auto 4rem;
+    }
+
+    .introduction__content p {
+        margin: 1rem 0 1.5rem;
+    }
+}
+
+/* ============== MEDIA QUERIES (SMALL DEVICES) ================ */
+@media screen and (max-width: 600px) {
+    .introduction__me {
+        width: 65%;
+        margin: 0 auto 3rem;
+    }
+
+    .introduction__cards {
+        grid-template-columns: 1fr 1fr;
+        gap: 1rem;
+    }
+
+    .introduction__content {
+        text-align: center;
+    }
+
+    .introduction__content p {
+        margin: 1.5rem 0;
+    }
 }
