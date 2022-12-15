@@ -1,7 +1,9 @@
 import React from 'react'
 import './introduction.css'
 import ME from '../../assets/sam-personal.jpg'
-import {TbReplace} from 'react-icons/tb'
+import {HiOutlineMail} from 'react-icons/hi'
+import {FaScroll} from 'react-icons/fa'
+import {AiOutlineIdcard} from 'react-icons/ai'
 
 const Introduction = () => {
   return (
@@ -19,19 +21,19 @@ const Introduction = () => {
             <div className="introduction__content">
                 <div className="introduction__cards">
                     <article className="introduction__card">
-                        <TbReplace className='introduction__icon'/>
+                        <FaScroll className='introduction__icon'/>
                         <h5>Samuel Konon Dundas Bruce</h5>
                         <small>Full Name</small>
                     </article>
 
                     <article className="introduction__card">
-                        <TbReplace className='introduction__icon'/>
+                        <AiOutlineIdcard className='introduction__icon'/>
                         <h5>S3992963</h5>
                         <small>Student ID</small>
                     </article>
 
                     <article className="introduction__card">
-                        <TbReplace className='introduction__icon'/>
+                        <HiOutlineMail className='introduction__icon'/>
                         <h5>S3992963@student.rmit.edu.au</h5>
                         <small>Student Email Address</small>
                     </article>

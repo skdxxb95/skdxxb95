@@ -48,7 +48,7 @@
 
 .introduction__card:hover{
     background: transparent;
-    border-color: var(--color-primary-variant);
+    border-color: var(--color-primary);
     cursor: default;
 }
 
@@ -69,5 +69,8 @@
 
 .introduction__content p {
     margin: 1rem 0 2.6rem;
-    color: var(--color-light);
+    color: var(--color-white);
+    background: var(--color-bg-variant);
+    padding: 1rem;
+    border-radius: 1.5rem;
 }
