@@ -31,7 +31,7 @@ const ProjectIdea = () => {
             <br></br><br></br>
             However, there are some shortcomings to using a USB password manager compared to internet-based password managers. One disadvantage is that a USB password manager requires a physical device and a USB cable to access your passwords, whereas internet-based password managers can be accessed from any device with an internet connection. This can be inconvenient if you need to access your passwords from multiple devices or locations. Additionally, internet-based password managers often offer features such as password sharing and synchronization across devices, which are not available with a USB password manager. Despite this, this product would offer a combination of portability, customization, and security that would make it a better option than a tool like LastPass.
             <br></br><br></br>
-            In order to develop the Raspberry Pi Pico-based USB password manager using, the following equipment is needed:
+            In order to develop the Raspberry Pi Pico-based USB password manager, the following equipment is needed:
             <br></br><br></br>
            </p>
            <ul>
