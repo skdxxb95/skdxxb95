@@ -23,6 +23,7 @@ footer a {
     justify-content: center;
     gap: 2rem;  
     margin: 1rem auto 2rem;
+    list-style: none;
 }
 
 .footer__socials {

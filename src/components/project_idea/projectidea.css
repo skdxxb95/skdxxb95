@@ -1,4 +1,4 @@
-.projectidea__content p {
+.projectidea__content {
     margin: 1rem 0 2.6rem;
     color: var(--color-white);
     background: var(--color-bg-variant);
@@ -6,4 +6,11 @@
     border: 1px solid transparent;
     border-radius: 1rem;
     border-color: var(--color-primary);
+    list-style: circle;
+}
+
+.projectidea__content ul {
+    margin-left: 7rem;
+    list-style:disc;
+    word-wrap: normal;
 }
